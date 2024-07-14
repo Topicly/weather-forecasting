@@ -1,4 +1,4 @@
-
+# Created by 00ber. Repository forked for educational purposes only. For more information visit https://github.com/00ber/multi-step-time-series-forecasting
 # Using deep learning to predict the temperature of the next 24 hours at the Ronald Reagan National Airport
 
 ## **Abstract**
